@@ -1,3 +1,4 @@
 holaaaa probando git
 
 Haciendo commit
+probando comando show
