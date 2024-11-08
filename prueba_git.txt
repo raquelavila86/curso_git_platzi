@@ -2,3 +2,4 @@ holaaaa probando git
 
 Haciendo commit
 probando comando show
+probando guardar msj commit en vim (terminal de comandos de git)
