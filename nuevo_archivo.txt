@@ -1,1 +1,2 @@
 cargar nuevo archivo txt
+editado desde git hub remoto
