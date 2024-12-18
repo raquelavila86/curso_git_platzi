@@ -1,2 +1,4 @@
 cargar nuevo archivo txt
 editado desde git hub remoto
+
+ahora cambie dsde local
